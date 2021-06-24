@@ -1,0 +1,45 @@
+{                          
+     "mode": 1,
+     "decoration": {
+          "leftHanded": false,
+          "rgba": [0, 0, 255,0],
+          "offsetX": [0, 11],
+          "offsetY": [0, -65],
+          "scalar": [1.0, 1.0],
+          "framerateLimit":60,
+          "topWindow": false,
+          "armLineColor": [0, 0, 0],
+          "emoticonKeep": true,
+          "emoticonClear":[222],
+          "correct":100,
+          "mouse_force_move":true
+    },
+     "workarea":{
+          "workarea":false,
+          "top_left":[2560,0],
+          "right_bottom":[4096,864]
+    },
+     "morekeys":{
+          "mouse":true,
+          "mouse_left": [1],
+          "mouse_right":[2],
+          "keybord":[81, 87, 69, 82,68,70,49,50,51,52,53,54,55],
+          "hand":[81, 87, 69, 82,68,70,49,50,51,52,53,54,55],
+          "face":[97, 98, 99, 100],
+          "sounds":[101,102,103,104]
+      },
+     "mouse":{
+          "mouse":true,
+          "mouse_left": [1],
+          "mouse_right":[2],
+          "face": [97, 98, 99, 100],
+          "sounds":[101,102,103,104]
+     },
+      "morekeys_keybordonly":{
+          "keybord":[17,16,82, 40,37,39,38],
+          "lefthand":[17,16,82],
+          "righthand":[40,37,39,38],
+          "face":[97,98,99,100],
+          "sounds":[101,102,103,104]
+     }
+}
